@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PassDataBetweenActivities</string>
+    <string name="type_the_text_here">Type the text here</string>
+    <string name="pass_data">Pass data</string>
+</resources>

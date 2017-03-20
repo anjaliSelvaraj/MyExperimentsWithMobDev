@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BundleDemo</string>
+    <string name="entry">ENTRY</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="enter">Enter</string>
+</resources>

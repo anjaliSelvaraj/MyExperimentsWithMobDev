@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SingleActivityDemo</string>
+    <string name="button_name">clear</string>
+    <string name="toast">button clicked</string>
+</resources>

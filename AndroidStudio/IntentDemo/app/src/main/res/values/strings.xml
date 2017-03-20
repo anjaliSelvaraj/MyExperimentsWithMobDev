@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="firstpagetv">Am First page</string>
+    <string name="next">Next</string>
+    <string name="am_first_page">Am first page</string>
+    <string name="next_page">Next page</string>
+    <string name="back">Back</string>
+    <string name="am_next_page">Am next Page</string>
+</resources>
